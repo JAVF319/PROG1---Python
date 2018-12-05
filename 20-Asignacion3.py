@@ -22,6 +22,6 @@ replace_string = input("\nIntroduzca el String que desea sustituir por la palabr
 
 def replace(old, new):
     print("El nuevo String a presentar es: \n")
-    print(text_string.replace(replace_string, BANDULO))
+    print(text_string.replace(replace_string, BANDULO, 1))
 
 replace(replace_string, BANDULO)
