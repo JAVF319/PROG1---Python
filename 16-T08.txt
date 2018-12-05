@@ -1,0 +1,2 @@
+﻿Este es un archivo para probar el programa contador de palabras "16-T08-WordCounter.py".
+Ya el programa funciona. Ahora estamos comprobando que si cuenta todas las palabras introducidas.
