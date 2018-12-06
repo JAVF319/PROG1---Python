@@ -25,3 +25,4 @@ def replace(old, new):
     print(text_string.replace(replace_string, BANDULO, 1))
 
 replace(replace_string, BANDULO)
+input()
