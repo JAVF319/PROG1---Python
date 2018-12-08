@@ -14,15 +14,6 @@ except:
 print("El resultado es: ", resultado)
 input()
 
-# ------------------------------------------
-try:
-    pass
-except expression as identifier:
-    pass
-else:
-    pass
-finally:
-    pass
 # ---------------------------------------
 """     except:
 Es una forma general de captar una excepción.
