@@ -1,0 +1,474 @@
+REGISTRO DE GENERACION
+
+EMPRESA DE GENERACION ELECTRICA
+Historico semanal
+
+
+SEMANA: 1
+Potencia generada para el  @ Domingo @ 360 MW
+Potencia generada para el  @ Lunes @ 274 MW
+Potencia generada para el  @ Martes @ 389 MW
+Potencia generada para el  @ Miercoles @ 414 MW
+Potencia generada para el  @ Jueves @ 000 MW
+Potencia generada para el  @ Viernes @ 363 MW
+Potencia generada para el  @ Sabado @ 227 MW
+
+
+SEMANA: 2
+Potencia generada para el  @ Domingo @ 000 MW
+Potencia generada para el  @ Lunes @ 295 MW
+Potencia generada para el  @ Martes @ 386 MW
+Potencia generada para el  @ Miercoles @ 000 MW
+Potencia generada para el  @ Jueves @ 056 MW
+Potencia generada para el  @ Viernes @ 052 MW
+Potencia generada para el  @ Sabado @ 432 MW
+
+
+SEMANA: 3
+Potencia generada para el  @ Domingo @ 333 MW
+Potencia generada para el  @ Lunes @ 273 MW
+Potencia generada para el  @ Martes @ 224 MW
+Potencia generada para el  @ Miercoles @ 382 MW
+Potencia generada para el  @ Jueves @ 324 MW
+Potencia generada para el  @ Viernes @ 104 MW
+Potencia generada para el  @ Sabado @ 283 MW
+
+
+SEMANA: 4
+Potencia generada para el  @ Domingo @ 061 MW
+Potencia generada para el  @ Lunes @ 285 MW
+Potencia generada para el  @ Martes @ 211 MW
+Potencia generada para el  @ Miercoles @ 473 MW
+Potencia generada para el  @ Jueves @ 331 MW
+Potencia generada para el  @ Viernes @ 265 MW
+Potencia generada para el  @ Sabado @ 262 MW
+
+
+SEMANA: 5
+Potencia generada para el  @ Domingo @ 494 MW
+Potencia generada para el  @ Lunes @ 455 MW
+Potencia generada para el  @ Martes @ 168 MW
+Potencia generada para el  @ Miercoles @ 083 MW
+Potencia generada para el  @ Jueves @ 233 MW
+Potencia generada para el  @ Viernes @ 089 MW
+Potencia generada para el  @ Sabado @ 456 MW
+
+
+SEMANA: 6
+Potencia generada para el  @ Domingo @ 311 MW
+Potencia generada para el  @ Lunes @ 471 MW
+Potencia generada para el  @ Martes @ 326 MW
+Potencia generada para el  @ Miercoles @ 464 MW
+Potencia generada para el  @ Jueves @ 150 MW
+Potencia generada para el  @ Viernes @ 119 MW
+Potencia generada para el  @ Sabado @ 461 MW
+
+
+SEMANA: 7
+Potencia generada para el  @ Domingo @ 132 MW
+Potencia generada para el  @ Lunes @ 335 MW
+Potencia generada para el  @ Martes @ 087 MW
+Potencia generada para el  @ Miercoles @ 244 MW
+Potencia generada para el  @ Jueves @ 276 MW
+Potencia generada para el  @ Viernes @ 419 MW
+Potencia generada para el  @ Sabado @ 403 MW
+
+
+SEMANA: 8
+Potencia generada para el  @ Domingo @ 322 MW
+Potencia generada para el  @ Lunes @ 291 MW
+Potencia generada para el  @ Martes @ 253 MW
+Potencia generada para el  @ Miercoles @ 372 MW
+Potencia generada para el  @ Jueves @ 411 MW
+Potencia generada para el  @ Viernes @ 074 MW
+Potencia generada para el  @ Sabado @ 124 MW
+
+
+SEMANA: 9
+Potencia generada para el  @ Domingo @ 192 MW
+Potencia generada para el  @ Lunes @ 141 MW
+Potencia generada para el  @ Martes @ 319 MW
+Potencia generada para el  @ Miercoles @ 243 MW
+Potencia generada para el  @ Jueves @ 422 MW
+Potencia generada para el  @ Viernes @ 276 MW
+Potencia generada para el  @ Sabado @ 056 MW
+
+
+SEMANA: 10
+Potencia generada para el  @ Domingo @ 319 MW
+Potencia generada para el  @ Lunes @ 185 MW
+Potencia generada para el  @ Martes @ 447 MW
+Potencia generada para el  @ Miercoles @ 174 MW
+Potencia generada para el  @ Jueves @ 353 MW
+Potencia generada para el  @ Viernes @ 146 MW
+Potencia generada para el  @ Sabado @ 485 MW
+
+
+SEMANA: 11
+Potencia generada para el  @ Domingo @ 083 MW
+Potencia generada para el  @ Lunes @ 184 MW
+Potencia generada para el  @ Martes @ 204 MW
+Potencia generada para el  @ Miercoles @ 303 MW
+Potencia generada para el  @ Jueves @ 205 MW
+Potencia generada para el  @ Viernes @ 052 MW
+Potencia generada para el  @ Sabado @ 485 MW
+
+
+SEMANA: 12
+Potencia generada para el  @ Domingo @ 404 MW
+Potencia generada para el  @ Lunes @ 334 MW
+Potencia generada para el  @ Martes @ 366 MW
+Potencia generada para el  @ Miercoles @ 268 MW
+Potencia generada para el  @ Jueves @ 220 MW
+Potencia generada para el  @ Viernes @ 143 MW
+Potencia generada para el  @ Sabado @ 397 MW
+
+
+SEMANA: 13
+Potencia generada para el  @ Domingo @ 141 MW
+Potencia generada para el  @ Lunes @ 218 MW
+Potencia generada para el  @ Martes @ 426 MW
+Potencia generada para el  @ Miercoles @ 432 MW
+Potencia generada para el  @ Jueves @ 357 MW
+Potencia generada para el  @ Viernes @ 152 MW
+Potencia generada para el  @ Sabado @ 498 MW
+
+
+SEMANA: 14
+Potencia generada para el  @ Domingo @ 255 MW
+Potencia generada para el  @ Lunes @ 443 MW
+Potencia generada para el  @ Martes @ 156 MW
+Potencia generada para el  @ Miercoles @ 164 MW
+Potencia generada para el  @ Jueves @ 183 MW
+Potencia generada para el  @ Viernes @ 180 MW
+Potencia generada para el  @ Sabado @ 166 MW
+
+
+SEMANA: 15
+Potencia generada para el  @ Domingo @ 471 MW
+Potencia generada para el  @ Lunes @ 374 MW
+Potencia generada para el  @ Martes @ 089 MW
+Potencia generada para el  @ Miercoles @ 192 MW
+Potencia generada para el  @ Jueves @ 175 MW
+Potencia generada para el  @ Viernes @ 360 MW
+Potencia generada para el  @ Sabado @ 319 MW
+
+
+SEMANA: 16
+Potencia generada para el  @ Domingo @ 125 MW
+Potencia generada para el  @ Lunes @ 421 MW
+Potencia generada para el  @ Martes @ 434 MW
+Potencia generada para el  @ Miercoles @ 419 MW
+Potencia generada para el  @ Jueves @ 100 MW
+Potencia generada para el  @ Viernes @ 216 MW
+Potencia generada para el  @ Sabado @ 106 MW
+
+
+SEMANA: 17
+Potencia generada para el  @ Domingo @ 141 MW
+Potencia generada para el  @ Lunes @ 084 MW
+Potencia generada para el  @ Martes @ 315 MW
+Potencia generada para el  @ Miercoles @ 134 MW
+Potencia generada para el  @ Jueves @ 319 MW
+Potencia generada para el  @ Viernes @ 195 MW
+Potencia generada para el  @ Sabado @ 083 MW
+
+
+SEMANA: 18
+Potencia generada para el  @ Domingo @ 444 MW
+Potencia generada para el  @ Lunes @ 407 MW
+Potencia generada para el  @ Martes @ 435 MW
+Potencia generada para el  @ Miercoles @ 055 MW
+Potencia generada para el  @ Jueves @ 121 MW
+Potencia generada para el  @ Viernes @ 484 MW
+Potencia generada para el  @ Sabado @ 331 MW
+
+
+SEMANA: 19
+Potencia generada para el  @ Domingo @ 000 MW
+Potencia generada para el  @ Lunes @ 266 MW
+Potencia generada para el  @ Martes @ 000 MW
+Potencia generada para el  @ Miercoles @ 485 MW
+Potencia generada para el  @ Jueves @ 000 MW
+Potencia generada para el  @ Viernes @ 000 MW
+Potencia generada para el  @ Sabado @ 089 MW
+
+
+SEMANA: 20
+Potencia generada para el  @ Domingo @ 316 MW
+Potencia generada para el  @ Lunes @ 080 MW
+Potencia generada para el  @ Martes @ 312 MW
+Potencia generada para el  @ Miercoles @ 293 MW
+Potencia generada para el  @ Jueves @ 278 MW
+Potencia generada para el  @ Viernes @ 489 MW
+Potencia generada para el  @ Sabado @ 109 MW
+
+
+SEMANA: 21
+Potencia generada para el  @ Domingo @ 147 MW
+Potencia generada para el  @ Lunes @ 464 MW
+Potencia generada para el  @ Martes @ 456 MW
+Potencia generada para el  @ Miercoles @ 173 MW
+Potencia generada para el  @ Jueves @ 000 MW
+Potencia generada para el  @ Viernes @ 277 MW
+Potencia generada para el  @ Sabado @ 225 MW
+
+
+SEMANA: 22
+Potencia generada para el  @ Domingo @ 064 MW
+Potencia generada para el  @ Lunes @ 111 MW
+Potencia generada para el  @ Martes @ 286 MW
+Potencia generada para el  @ Miercoles @ 478 MW
+Potencia generada para el  @ Jueves @ 256 MW
+Potencia generada para el  @ Viernes @ 287 MW
+Potencia generada para el  @ Sabado @ 260 MW
+
+
+SEMANA: 23
+Potencia generada para el  @ Domingo @ 059 MW
+Potencia generada para el  @ Lunes @ 413 MW
+Potencia generada para el  @ Martes @ 258 MW
+Potencia generada para el  @ Miercoles @ 030 MW
+Potencia generada para el  @ Jueves @ 412 MW
+Potencia generada para el  @ Viernes @ 118 MW
+Potencia generada para el  @ Sabado @ 210 MW
+
+
+SEMANA: 24
+Potencia generada para el  @ Domingo @ 172 MW
+Potencia generada para el  @ Lunes @ 108 MW
+Potencia generada para el  @ Martes @ 389 MW
+Potencia generada para el  @ Miercoles @ 167 MW
+Potencia generada para el  @ Jueves @ 204 MW
+Potencia generada para el  @ Viernes @ 462 MW
+Potencia generada para el  @ Sabado @ 290 MW
+
+
+SEMANA: 25
+Potencia generada para el  @ Domingo @ 104 MW
+Potencia generada para el  @ Lunes @ 090 MW
+Potencia generada para el  @ Martes @ 244 MW
+Potencia generada para el  @ Miercoles @ 199 MW
+Potencia generada para el  @ Jueves @ 421 MW
+Potencia generada para el  @ Viernes @ 477 MW
+Potencia generada para el  @ Sabado @ 000 MW
+
+
+SEMANA: 26
+Potencia generada para el  @ Domingo @ 468 MW
+Potencia generada para el  @ Lunes @ 343 MW
+Potencia generada para el  @ Martes @ 222 MW
+Potencia generada para el  @ Miercoles @ 427 MW
+Potencia generada para el  @ Jueves @ 492 MW
+Potencia generada para el  @ Viernes @ 000 MW
+Potencia generada para el  @ Sabado @ 000 MW
+
+
+SEMANA: 27
+Potencia generada para el  @ Domingo @ 347 MW
+Potencia generada para el  @ Lunes @ 218 MW
+Potencia generada para el  @ Martes @ 141 MW
+Potencia generada para el  @ Miercoles @ 279 MW
+Potencia generada para el  @ Jueves @ 010 MW
+Potencia generada para el  @ Viernes @ 072 MW
+Potencia generada para el  @ Sabado @ 491 MW
+
+
+SEMANA: 28
+Potencia generada para el  @ Domingo @ 079 MW
+Potencia generada para el  @ Lunes @ 457 MW
+Potencia generada para el  @ Martes @ 057 MW
+Potencia generada para el  @ Miercoles @ 103 MW
+Potencia generada para el  @ Jueves @ 421 MW
+Potencia generada para el  @ Viernes @ 292 MW
+Potencia generada para el  @ Sabado @ 367 MW
+
+
+SEMANA: 29
+Potencia generada para el  @ Domingo @ 112 MW
+Potencia generada para el  @ Lunes @ 252 MW
+Potencia generada para el  @ Martes @ 225 MW
+Potencia generada para el  @ Miercoles @ 305 MW
+Potencia generada para el  @ Jueves @ 452 MW
+Potencia generada para el  @ Viernes @ 062 MW
+Potencia generada para el  @ Sabado @ 138 MW
+
+
+SEMANA: 30
+Potencia generada para el  @ Domingo @ 425 MW
+Potencia generada para el  @ Lunes @ 112 MW
+Potencia generada para el  @ Martes @ 180 MW
+Potencia generada para el  @ Miercoles @ 279 MW
+Potencia generada para el  @ Jueves @ 321 MW
+Potencia generada para el  @ Viernes @ 250 MW
+Potencia generada para el  @ Sabado @ 310 MW
+
+
+SEMANA: 31
+Potencia generada para el  @ Domingo @ 114 MW
+Potencia generada para el  @ Lunes @ 210 MW
+Potencia generada para el  @ Martes @ 169 MW
+Potencia generada para el  @ Miercoles @ 363 MW
+Potencia generada para el  @ Jueves @ 473 MW
+Potencia generada para el  @ Viernes @ 288 MW
+Potencia generada para el  @ Sabado @ 114 MW
+
+
+SEMANA: 32
+Potencia generada para el  @ Domingo @ 096 MW
+Potencia generada para el  @ Lunes @ 439 MW
+Potencia generada para el  @ Martes @ 120 MW
+Potencia generada para el  @ Miercoles @ 166 MW
+Potencia generada para el  @ Jueves @ 128 MW
+Potencia generada para el  @ Viernes @ 020 MW
+Potencia generada para el  @ Sabado @ 162 MW
+
+
+SEMANA: 33
+Potencia generada para el  @ Domingo @ 000 MW
+Potencia generada para el  @ Lunes @ 114 MW
+Potencia generada para el  @ Martes @ 086 MW
+Potencia generada para el  @ Miercoles @ 123 MW
+Potencia generada para el  @ Jueves @ 127 MW
+Potencia generada para el  @ Viernes @ 297 MW
+Potencia generada para el  @ Sabado @ 435 MW
+
+
+SEMANA: 34
+Potencia generada para el  @ Domingo @ 391 MW
+Potencia generada para el  @ Lunes @ 254 MW
+Potencia generada para el  @ Martes @ 000 MW
+Potencia generada para el  @ Miercoles @ 127 MW
+Potencia generada para el  @ Jueves @ 198 MW
+Potencia generada para el  @ Viernes @ 478 MW
+Potencia generada para el  @ Sabado @ 354 MW
+
+
+SEMANA: 35
+Potencia generada para el  @ Domingo @ 452 MW
+Potencia generada para el  @ Lunes @ 489 MW
+Potencia generada para el  @ Martes @ 209 MW
+Potencia generada para el  @ Miercoles @ 257 MW
+Potencia generada para el  @ Jueves @ 149 MW
+Potencia generada para el  @ Viernes @ 145 MW
+Potencia generada para el  @ Sabado @ 450 MW
+
+
+SEMANA: 36
+Potencia generada para el  @ Domingo @ 377 MW
+Potencia generada para el  @ Lunes @ 155 MW
+Potencia generada para el  @ Martes @ 239 MW
+Potencia generada para el  @ Miercoles @ 298 MW
+Potencia generada para el  @ Jueves @ 474 MW
+Potencia generada para el  @ Viernes @ 070 MW
+Potencia generada para el  @ Sabado @ 225 MW
+
+
+SEMANA: 37
+Potencia generada para el  @ Domingo @ 255 MW
+Potencia generada para el  @ Lunes @ 218 MW
+Potencia generada para el  @ Martes @ 240 MW
+Potencia generada para el  @ Miercoles @ 321 MW
+Potencia generada para el  @ Jueves @ 304 MW
+Potencia generada para el  @ Viernes @ 167 MW
+Potencia generada para el  @ Sabado @ 094 MW
+
+
+SEMANA: 38
+Potencia generada para el  @ Domingo @ 336 MW
+Potencia generada para el  @ Lunes @ 089 MW
+Potencia generada para el  @ Martes @ 310 MW
+Potencia generada para el  @ Miercoles @ 356 MW
+Potencia generada para el  @ Jueves @ 129 MW
+Potencia generada para el  @ Viernes @ 357 MW
+Potencia generada para el  @ Sabado @ 340 MW
+
+
+SEMANA: 39
+Potencia generada para el  @ Domingo @ 230 MW
+Potencia generada para el  @ Lunes @ 217 MW
+Potencia generada para el  @ Martes @ 100 MW
+Potencia generada para el  @ Miercoles @ 105 MW
+Potencia generada para el  @ Jueves @ 117 MW
+Potencia generada para el  @ Viernes @ 232 MW
+Potencia generada para el  @ Sabado @ 082 MW
+
+
+SEMANA: 40
+Potencia generada para el  @ Domingo @ 118 MW
+Potencia generada para el  @ Lunes @ 458 MW
+Potencia generada para el  @ Martes @ 310 MW
+Potencia generada para el  @ Miercoles @ 476 MW
+Potencia generada para el  @ Jueves @ 135 MW
+Potencia generada para el  @ Viernes @ 421 MW
+Potencia generada para el  @ Sabado @ 303 MW
+
+
+SEMANA: 41
+Potencia generada para el  @ Domingo @ 378 MW
+Potencia generada para el  @ Lunes @ 055 MW
+Potencia generada para el  @ Martes @ 225 MW
+Potencia generada para el  @ Miercoles @ 296 MW
+Potencia generada para el  @ Jueves @ 347 MW
+Potencia generada para el  @ Viernes @ 230 MW
+Potencia generada para el  @ Sabado @ 151 MW
+
+
+SEMANA: 42
+Potencia generada para el  @ Domingo @ 072 MW
+Potencia generada para el  @ Lunes @ 327 MW
+Potencia generada para el  @ Martes @ 274 MW
+Potencia generada para el  @ Miercoles @ 072 MW
+Potencia generada para el  @ Jueves @ 251 MW
+Potencia generada para el  @ Viernes @ 440 MW
+Potencia generada para el  @ Sabado @ 107 MW
+
+
+SEMANA: 43
+Potencia generada para el  @ Domingo @ 095 MW
+Potencia generada para el  @ Lunes @ 127 MW
+Potencia generada para el  @ Martes @ 183 MW
+Potencia generada para el  @ Miercoles @ 322 MW
+Potencia generada para el  @ Jueves @ 392 MW
+Potencia generada para el  @ Viernes @ 281 MW
+Potencia generada para el  @ Sabado @ 302 MW
+
+
+SEMANA: 44
+Potencia generada para el  @ Domingo @ 315 MW
+Potencia generada para el  @ Lunes @ 126 MW
+Potencia generada para el  @ Martes @ 130 MW
+Potencia generada para el  @ Miercoles @ 280 MW
+Potencia generada para el  @ Jueves @ 184 MW
+Potencia generada para el  @ Viernes @ 478 MW
+Potencia generada para el  @ Sabado @ 074 MW
+
+
+SEMANA: 45
+Potencia generada para el  @ Domingo @ 454 MW
+Potencia generada para el  @ Lunes @ 469 MW
+Potencia generada para el  @ Martes @ 176 MW
+Potencia generada para el  @ Miercoles @ 251 MW
+Potencia generada para el  @ Jueves @ 195 MW
+Potencia generada para el  @ Viernes @ 076 MW
+Potencia generada para el  @ Sabado @ 068 MW
+
+
+SEMANA: 46
+Potencia generada para el  @ Domingo @ 479 MW
+Potencia generada para el  @ Lunes @ 131 MW
+Potencia generada para el  @ Martes @ 114 MW
+Potencia generada para el  @ Miercoles @ 403 MW
+Potencia generada para el  @ Jueves @ 290 MW
+Potencia generada para el  @ Viernes @ 197 MW
+Potencia generada para el  @ Sabado @ 159 MW
+
+
+SEMANA: 47
+Potencia generada para el  @ Domingo @ 145 MW
+Potencia generada para el  @ Lunes @ 191 MW
+Potencia generada para el  @ Martes @ 408 MW
+Potencia generada para el  @ Miercoles @ 332 MW
+Potencia generada para el  @ Jueves @ 110 MW
+Potencia generada para el  @ Viernes @ 474 MW
+Potencia generada para el  @ Sabado @ 458 MW
