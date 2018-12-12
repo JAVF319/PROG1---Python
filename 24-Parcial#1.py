@@ -36,7 +36,7 @@ if kWh < 350:
           print("\nEl total a pagar es de: ", TaP)
 
 elif 350 <= kWh < 560:
-     TaP = (kWh * Td560)+300
+     TaP = (kWh * Td560)+350
      print("\nEl total a pagar es de: ", TaP+350)
 
 elif 560 <= kWh < 1300:
